@@ -72,10 +72,6 @@ Please note that everything is packaged into an asar archive [by default](https:
 
 For an app that will be shipped to production, you should sign your application. See [Where to buy code signing certificates](https://www.electron.build/code-signing#where-to-buy-code-signing-certificate).
 
-## Donate
-
-We do this open source work in our free time. If you'd like us to invest more time on it, please [donate](https://www.electron.build/donate). Donation can be used to increase some issue priority.
-
 ## Sponsors
 
 <a href="https://workflowy.com"><img src="https://workflowy.com/media/i/icon-28x28.png" alt="WorkFlowy" title="WorkFlowy" width="28" height="28" align="middle"/></a>
